@@ -1,0 +1,5 @@
+Since the we couldn't send the dataset with the delivery since it was too big here you have a link to the repository which contains the same notebook attach to this delivery and the dataset of images used for this Assignment.
+
+Note: In local the dataset originally was all the images in the folder "img" but since GitHub does not allow folders with +1000 files it got divided in 2 folders "img" and "img2"
+
+Link: https://github.com/rcmartemp/CBIR
